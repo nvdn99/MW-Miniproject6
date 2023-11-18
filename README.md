@@ -53,3 +53,4 @@ backend: Contains the Express backend code.
 
 In this updated version, I've added a section for "New Functionalities" to specifically document the new features related to deleting all cars and the additional form fields. The installation and usage sections are modified to include instructions for the new functionalities.
 # MW-Miniproject6
+# MW-Miniproject6
